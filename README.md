@@ -10,7 +10,7 @@ The street network is stored as a serialized Python pickle file containing a Net
 import pickle
 import networkx as nx
 
-with open("choice_3.pickle", "rb") as f:
+with open("master_network.pickle", "rb") as f:
     G, Hyd_loc = pickle.load(f)
 ```
 

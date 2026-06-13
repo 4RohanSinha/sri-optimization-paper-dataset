@@ -147,3 +147,35 @@ would indicate that:
 - Deploying all 48 sensors covers 100% of graph nodes.
 
 Coverage values are computed relative to all nodes in the street network graph `G` described in Section 1.
+
+## Citation
+
+If you use this dataset or the code in this repository for your research, please cite both the dataset repository and the accompanying paper:
+
+### Paper Citation
+> Agrawal, P., Zhuang, Y., Sinha, R. et al. Optimal Sensor Placement for Acoustic Leak Pinpointing in Water Distribution Networks. Water Resour Manage 40, 16 (2026). https://doi.org/10.1007/s11269-025-04356-7
+
+### Repository Citation
+> Sinha, R., Agrawal, P. (2026). "sri-optimization-paper-dataset". GitHub Repository. https://github.com/4RohanSinha/sri-optimization-paper-dataset
+
+### BibTeX
+```bibtex
+@article{agrawal2026optimal,
+  title={Optimal Sensor Placement for Acoustic Leak Pinpointing in Water Distribution Networks},
+  author={Agrawal, Pranav and Zhuang, Yongjie and Sinha, Rohan and Murthy, Sachit and Narasimhan, Sriram},
+  journal={Water Resources Management},
+  volume={40},
+  number={1},
+  pages={16},
+  year={2026},
+  publisher={Springer}
+}
+
+@misc{sinha2026dataset,
+  author = {Sinha, Rohan and Agrawal, Pranav},
+  title = {sri-optimization-paper-dataset},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{[https://github.com/4RohanSinha/sri-optimization-paper-dataset](https://github.com/4RohanSinha/sri-optimization-paper-dataset)}}
+}
